@@ -1,0 +1,116 @@
+.imag{
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+.mod{
+    display: flex;
+}
+
+
+.model1{
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left: px;
+    color: black;
+    
+}
+
+.model1:hover{
+    cursor: pointer;
+    color:rgb(0, 81, 255);
+}
+
+
+
+.container{
+    
+    margin-top: 40px;
+}
+.container1{
+    margin-left: 100px;
+    width: 1500px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-right: 150px;
+    
+}
+
+.container1:hover{
+    border: 2px rgba(0, 0, 0, 0.356) solid;
+    box-shadow: 1px 10px 5px 10px rgba(128, 128, 128, 0.301);
+    border-radius: 10px;
+
+}
+
+.pri{
+    margin-left: 15px;
+    font-size: 30px;
+    margin-top: 35px;
+}
+
+.acess{
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.774);
+    margin-top: -150px;
+    margin-left: 80px;
+}
+
+.ac1{
+    margin-left: 560px;
+    margin-top: 25px;
+}
+
+.ac2{
+    margin-left: 560px;
+}
+
+.ac3{
+    margin-left: 560px;
+}
+
+.ac4{
+    margin-left: 560px;
+}
+
+.ac5{
+    margin-left: 560px;
+}
+
+.ac6{
+    margin-left: 560px;
+}
+
+.ac61{
+    margin-left: 560px;
+}
+
+.ac21{
+    margin-left: 560px;
+}
+
+.btn{
+    margin-left: 800px;
+}
+
+.cart{
+    margin-left: 600px;
+    height: 30px;
+    width: 120px;
+    border-radius: 50px;
+    background-color: orange;
+    color:white;
+    cursor: pointer;
+}
+
+
+.view{
+    margin-left: 10px;
+    color:white;
+    background-color: rgb(255, 94, 0);
+    height: 30px;
+    width: 120px;
+    border-radius: 50px;
+}

@@ -1,0 +1,49 @@
+.car{
+    margin-top: 30px;
+    padding-top: 10px;
+   margin-left: 1820px;
+   font-size: 35px;
+   margin-bottom: 10px;
+   color: whitesmoke;
+}
+
+
+.ser{
+    padding-top: 10px;
+    margin-left: 500px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.ser input:hover{
+    border:  2px solid grey;
+}
+
+.sar{
+    display: flex;
+   
+    
+}
+
+.sas{
+    margin-top: 59px;
+    margin-left: -30px;
+    width: 30px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 5px;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+.logo{
+    width: 180px;
+    height: 130px;
+  
+    margin-left: 20px;
+
+}
