@@ -42,6 +42,8 @@
     border: 2px rgba(0, 0, 0, 0.356) solid;
     box-shadow: 1px 10px 5px 10px rgba(128, 128, 128, 0.301);
     border-radius: 10px;
+    transform: scale(1.1);
+    margin-top: 30px;
 
 }
 
